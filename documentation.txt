@@ -1,1 +1,2 @@
 This project is for Git hands-on practice
+This file explains basic Git operations.
